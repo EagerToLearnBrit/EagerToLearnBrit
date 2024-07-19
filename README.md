@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning all about different frequencies and have a keen interest in coding, also, the flipper zero, along with it's vast amounts of impressive capabilities
 - 📫 How to reach me: cchapman524@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... Hmm, i'll have a think
+- ⚡ Fun fact: ... Australia is actually wider than the moon!
 
 <!---
 EagerToLearnBrit/EagerToLearnBrit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
