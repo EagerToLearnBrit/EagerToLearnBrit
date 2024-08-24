@@ -2,7 +2,6 @@
 - 👀 I’m interested in frequencies, discovering things we all should know but most of us actually don't
 - 🌱 I’m currently learning all about different frequencies and have a keen interest in coding, also, the flipper zero, along with it's vast amounts of impressive capabilities
 - 📫 How to reach me: cchapman524@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ... Australia is actually wider than the moon!
 
 <!---
