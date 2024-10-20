@@ -1,6 +1,6 @@
-- 👋 H3ll0 to all, I’m @EagerToLearnBrit
-- 👀 I’m interested in frequencies, discovering things we all should know, but most of us actually don't!
-- 🌱 I’m currently learning all about different frequencies and have a keen interest in coding,  also, the Flipper Zero, along with it's vast amounts of 'Forever Learning' impressive capabilities!!
+- 👋 Hola to all, I’m @EagerToLearnBrit (The clue is in the name)
+- 👀 Amongst other things, I'm interested in frequencies & discovering things we all should know, but most of us actually don't!
+- 🌱 I’m currently learning all about different frequencies and have a keen interest in coding, also, the Flipper Zero, along with it's vast amounts of 'Forever Learning' impressive capabilities!!
 - 📫 How to reach me: Chappy784@mail.com
 - ⚡ Fun fact: ... Australia is actually wider than the moon!!
 
