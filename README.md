@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EagerToLearnBrit
-- 👀 I’m interested in ... Coding, Powershell etc, also the amazing things one can do with a flipper zero, within the law of course ;)
-- 🌱 I’m currently learning ... Coding, slowly but surely
+- 👀 I’m interested in ... Coding, Powershell etc, also frequencies and the amazing things one can do with a flipper zero, within the law of course ;)
+- 🌱 I’m currently learning ... Coding, slowly but surely, also pgp keys, encryption/decryption etc 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... CUK7@proton.me
 - 😄 Pronouns: ...
