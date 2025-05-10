@@ -5,5 +5,3 @@
 - ⚡ Fun facts: ... Australia is wider than the moon.
 -  Earth spins at around 1000mph, we spin with it but don't feel a thing!
 
-- <---EagerToLearnBrit/EagerToLearnBrit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-                           You can click the Preview link to take a look at your changes.--->
