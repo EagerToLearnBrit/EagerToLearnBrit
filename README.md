@@ -9,12 +9,15 @@ Hola a todos!! I'm **@EagerToLearnBrit**, and I'm passionate about exploring the
 ## 🌟 About Me
 - 🧠 **Learning**: Currently diving into coding,
 PGP keys, encryption & decryption.
+
 - 🛠️ **Interests**: Powershell, frequencies, and the amazing things one can do with a Flipper Zero (within the law, of course 😉).
+
 - 🧑‍💻 **Fun Fact**: Australia is wider than the moon 🌙, and Earth spins at **1000 mph**, yet we don’t feel a thing!
 
 ---
 ## 📫 Let's Connect
 - 💌 Email me: [CUK7@proton.me](mailto:CUK7@proton.me)
+
 - 🌐 More about me: (Add your personal website or LinkedIn profile here if you have one!) - https://www.linkedin.com/in/c-chapman-2b6425265
 
 ---
