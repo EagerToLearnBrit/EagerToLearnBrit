@@ -1,7 +1,9 @@
-# ![#EagerToLearnBrit (5)](https://github.com/user-attachments/assets/2aae00ed-fe35-4404-9365-d521fcb2343e)
+# 
 
 
-  Welcome to my GitHub profile!
+  ![#EagerToLearnBrit (7)](https://github.com/user-attachments/assets/10eb79b1-ebbf-42ac-a1f2-bd784cab772d)
+
+Welcome to my GitHub profile!
 
 Hola a todos!!
 I'm *@EagerToLearnBrit*, and I'm passionate about exploring the world of tech, coding, and all things creative. 🚀
