@@ -1,4 +1,4 @@
-# 
+#  ![#EagerToLearnBrit (1)](https://github.com/user-attachments/assets/f2abdca2-cb29-41cc-9ac1-342fd87fb0a4)
 
   Welcome to my GitHub profile!
 
@@ -6,7 +6,8 @@ Hola a todos!! I'm **@EagerToLearnBrit**, and I'm passionate about exploring the
 
 ---
 ## 🌟 About Me
-- 🧠 **Learning**: Currently diving into coding, PGP keys, encryption & decryption.
+- 🧠 **Learning**: Currently diving into coding,
+PGP keys, encryption & decryption.
 - 🛠️ **Interests**: Powershell, frequencies, and the amazing things one can do with a Flipper Zero (within the law, of course 😉).
 - 🧑‍💻 **Fun Fact**: Australia is wider than the moon 🌙, and Earth spins at **1000 mph**, yet we don’t feel a thing!
 
