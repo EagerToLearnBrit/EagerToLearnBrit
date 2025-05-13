@@ -15,7 +15,7 @@ PGP keys, encryption & decryption.
 ---
 ## 📫 Let's Connect
 - 💌 Email me: [CUK7@proton.me](mailto:CUK7@proton.me)
-- 🌐 More about me: (Add your personal website or LinkedIn profile here if you have one!)
+- 🌐 More about me: (Add your personal website or LinkedIn profile here if you have one!) - https://www.linkedin.com/in/c-chapman-2b6425265
 
 ---
 ## 🛠️ Technologies & Tools
