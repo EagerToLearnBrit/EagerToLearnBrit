@@ -1,5 +1,5 @@
-#       ![WelcomeToMyProfileWelcomeGIF](https://github.com/user-attachments/assets/5d4fbc21-dc67-4979-8e60-c3369fcb77ea)
- 
+#     ![WelcomeToMyProfileWelcomeGIF](https://github.com/user-attachments/assets/5d4fbc21-dc67-4979-8e60-c3369fcb77ea)
+
   Welcome to my GitHub profile!
 
 Hola a todos!! I'm **@EagerToLearnBrit**, and I'm passionate about exploring the world of tech, coding, and all things creative. 🚀
