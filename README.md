@@ -8,10 +8,11 @@ Welcome to my GitHub profile!
 Hola a todos!!
 I'm *@EagerToLearnBrit*, and I'm passionate about exploring the world of tech, coding, and all things creative. 🚀
 
----
+
 ## 🌟 About Me
 - 🧠 **Learning**: Currently diving into coding,
 PGP keys, encryption & decryption.
+
 
 - 🛠️ **Interests**: Powershell, frequencies, and the amazing things one can do with a Flipper Zero (within the law, of course 😉).
 
