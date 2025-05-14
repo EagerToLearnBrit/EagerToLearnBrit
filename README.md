@@ -3,7 +3,7 @@
 
  
 
-Welcome to my GitHub profile!
+👋🏽 Welcome to my GitHub profile!
 
 Hola a todos!!
 
@@ -12,7 +12,7 @@ I'm *@EagerToLearnBrit*, and I'm passionate about exploring the world of tech, c
 
 ## 🌟 About Me
 - 🧠 **Learning**: Currently diving into coding,
-PGP keys, encryption & decryption.
+PGP keys, encryption & decryption 🖥️
 
 
 - 🛠️ **Interests**: Powershell, frequencies, and the amazing things one can do with a Flipper Zero (within the law, of course 😉).
@@ -46,7 +46,7 @@ If you’re interested in the things I’m learning or working on, check out:
 ## 💡 Fun Section
 Want to know something cool?  
 
-The blue whale's tongue can weigh as much as a young elephant, and an adult elephant can even fit on the tongue of a blue whale 🐘
+The blue whale's tongue can weigh as much as a young elephant, and an adult elephant can even fit on the tongue of a blue whale 🐋
 
 ---
 ## 🌟 Thank You!
