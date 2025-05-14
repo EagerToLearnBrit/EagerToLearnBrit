@@ -44,8 +44,7 @@ If you’re interested in the things I’m learning or working on, check out:
 ---
 ## 💡 Fun Section
 Want to know something cool?  
-> "Australia is wider than the moon." 🌍 ➡️ 🌙  
-> "We spin at 1000 mph and still don’t feel it!" 🌪️
+> "The blue whale's tongue can weigh as much as a young elephant, and an adult elephant can even fit on the tongue of a blue whale"
 
 ---
 ## 🌟 Thank You!
