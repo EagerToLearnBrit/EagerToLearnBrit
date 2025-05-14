@@ -1,7 +1,7 @@
-# 
+# ![EagerToLearnBrit (3)](https://github.com/user-attachments/assets/c877cc83-4114-4d8c-9d7c-fccf9eb8b218)
 
 
-  ![#EagerToLearnBrit (7)](https://github.com/user-attachments/assets/10eb79b1-ebbf-42ac-a1f2-bd784cab772d)
+ 
 
 Welcome to my GitHub profile!
 
