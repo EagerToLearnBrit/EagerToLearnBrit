@@ -1,7 +1,8 @@
-# ![EagerToLearnBrit (3)](https://github.com/user-attachments/assets/c877cc83-4114-4d8c-9d7c-fccf9eb8b218)
+# 
 
 
- 
+ ![GIF_20250514_191942_395 (1)](https://github.com/user-attachments/assets/897fd74e-c8e3-49e0-b63c-4154f394853b)
+
 
 👋🏽 Welcome to my GitHub profile!
 
