@@ -3,8 +3,9 @@
 
  
 
+![To the profile of (1)](https://github.com/user-attachments/assets/7994bbc9-e263-44ed-8941-d21dec9edb84)
 
-https://github.com/user-attachments/assets/eb77a12d-7bb4-4344-b87c-a3e59b387bde
+
 
 
 
