@@ -1,7 +1,11 @@
 # 
 
 
- ![GIF_20250514_191942_395 (1)](https://github.com/user-attachments/assets/897fd74e-c8e3-49e0-b63c-4154f394853b)
+ 
+
+
+https://github.com/user-attachments/assets/eb77a12d-7bb4-4344-b87c-a3e59b387bde
+
 
 
 👋🏽 Welcome to my GitHub profile!
