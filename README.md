@@ -40,7 +40,10 @@ Here are some of the tools and technologies I’m currently working with or lear
 - **Interests**: Encryption, Decryption, and Flipper Zero wizardry.
 
 ---
-## 🚀 Goals
+
+
+## 🚀 Goals ![20250519_00577777323_0001](https://github.com/user-attachments/assets/aafb51ea-b12f-45f4-8dab-f133922c4da6)
+
 - **Short-term**: Get better at coding and build small projects.
 - **Long-term**: Contribute to open-source projects and explore the limitless possibilities of tech.
 
