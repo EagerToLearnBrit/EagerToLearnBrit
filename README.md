@@ -43,7 +43,8 @@ Here are some of the tools and technologies I’m currently working with or lear
 ---
 
 
-## 🚀 Goals ![20250519_00577777323_0001](https://github.com/user-attachments/assets/aafb51ea-b12f-45f4-8dab-f133922c4da6)
+## 🚀 Goals ![GIF_20250520_040758_063](https://github.com/user-attachments/assets/771f301e-3165-4ea8-a3b3-720611ab9c52)
+
 
 - **Short-term**: Get better at coding and build small projects.
 - **Long-term**: Contribute to open-source projects and explore the limitless possibilities of tech.
@@ -54,8 +55,11 @@ If you’re interested in the things I’m learning or working on, check out:
 - 📖 (Link to a blog, Medium article, or any resources you recommend)
 
 ---
+
 ## 💡 Fun Section
-Want to know something cool?  
+Want to know something cool? 
+
+
 
 The blue whale's tongue can weigh as much as a young elephant, and an adult elephant can even fit on the tongue of a blue whale 🐋
 
