@@ -44,7 +44,8 @@ Here are some of the tools and technologies I’m currently working with or lear
 
 
 ## 🚀 Goals 
-![©️CC725 (1)](https://github.com/user-attachments/assets/fd4c8217-5dfc-4c14-bf67-8cdfd4658331)
+![©️CC425 (1)](https://github.com/user-attachments/assets/11081fed-7147-4464-adc0-6fc5047b748a)
+
 
 - **Short-term**: Get better at coding and build small projects.
 - **Long-term**: Contribute to open-source projects and explore the limitless possibilities of tech.
