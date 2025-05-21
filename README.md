@@ -65,9 +65,8 @@ Here are some of the tools and technologies I’m currently working with or lear
 
 ---
 ## 📝 Blog & Resources
-If you’re interested in the things I’m learning or working on, check out:
-- 📖 (Link to a blog, Medium article, or any resources you recommend)
-
+If you’re interested in the things I’m learning or working on (see repo's) check out:
+- 📨 Email me
 ---
 
 ## 💡 Fun Section
