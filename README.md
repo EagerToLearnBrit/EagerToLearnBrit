@@ -66,7 +66,7 @@ Here are some of the tools and technologies I’m currently working with or lear
 ---
 ## 📝 Blog & Resources
 If you’re interested in the things I’m learning or working on (see repo's) check out:
-- 📨 Email me
+- 📨 Email me - chappy784@mail.com
 ---
 
 ## 💡 Fun Section
