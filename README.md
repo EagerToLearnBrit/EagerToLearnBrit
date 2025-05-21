@@ -33,6 +33,19 @@ PGP keys, encryption & decryption 🖥️
 
 - 🌐 More about me: - https://www.linkedin.com/in/c-chapman-2b6425265
 
+  <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0009-0001-1486-5633"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0009-0001-1486-5633
+    </a>
 ---
 ## 🛠️ Technologies & Tools
 Here are some of the tools and technologies I’m currently working with or learning:
