@@ -2,12 +2,13 @@
 
 
  
-![To the profile of (3)](https://github.com/user-attachments/assets/5b05f431-eab9-4861-8833-c86783571c7b)
 
 
 
 
 
+
+![To the profile of (2)](https://github.com/user-attachments/assets/f452316e-5800-4f2d-a84d-2304163514e1)
 
 
 👋🏽 Welcome to my GitHub profile!
