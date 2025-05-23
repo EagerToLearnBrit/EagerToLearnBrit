@@ -25,7 +25,7 @@ PGP keys, encryption & decryption 🖥️
 - 🛠️ **Interests**: Powershell, frequencies, and the amazing things one can do with a Flipper Zero (within the law, of course 😉).
 
 - 🧑‍💻 **Fun Fact**: Australia is wider than the moon 🌙, and Earth spins at **1000 mph**, yet we don’t feel a thing! 🌏
-https://github.com/EagerToLearnBrit/my-profile-views-counter
+
 ---
 ## 📫 Let's Connect
 - ✉️ Email me: [CUK7@proton.me](mailto:CUK7@proton.me)
