@@ -1,14 +1,14 @@
 # 
 
 
- 
+
+![To the prof7777ile of (5)](https://github.com/user-attachments/assets/d17b053a-5199-4bb5-b0fb-03f22d019745)
 
 
 
 
 
 
-![To the profile of (2)](https://github.com/user-attachments/assets/f452316e-5800-4f2d-a84d-2304163514e1)
 
 
 👋🏽 Welcome to my GitHub profile!
