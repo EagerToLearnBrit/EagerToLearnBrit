@@ -48,6 +48,9 @@ PGP keys, encryption & decryption 🖥️
         alt="ORCID iD icon"/>
       https://orcid.org/0009-0001-1486-5633
     </a>
+
+
+    ![resize0_20250524_184517_0000](https://github.com/user-attachments/assets/3c2ca3fe-ece7-4f21-84f6-6f0e0918b1cf)
 ---
 ## 🛠️ Technologies & Tools
 Here are some of the tools and technologies I’m currently working with or learning:
