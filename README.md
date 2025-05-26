@@ -84,4 +84,5 @@ The blue whale's tongue can weigh as much as a young elephant, and an adult elep
 ---
 ## 🌟 Thank You!
 Thanks for stopping by my profile! Feel free to drop me a message or collaborate on a project. Let’s create something awesome together! 🎉
- ![resize0_20250524_184517_0000](https://github.com/user-attachments/assets/3c2ca3fe-ece7-4f21-84f6-6f0e0918b1cf)
+![Untkkitled design (6)](https://github.com/user-attachments/assets/5c21914a-bb82-4c05-b1d7-2c166f2b608d)
+
