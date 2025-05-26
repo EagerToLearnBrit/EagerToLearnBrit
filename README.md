@@ -1,11 +1,5 @@
 # 
-
-
-![To the profi787le of (5)](https://github.com/user-attachments/assets/38d203ac-5525-4a6e-a30f-e11fd56198e8)
-
-
-
-
+![Untitled video - Made wnuith Clipchamp](https://github.com/user-attachments/assets/f6bb42a3-d884-4423-8a3c-37cad2fe1d0e)
 
 
 
