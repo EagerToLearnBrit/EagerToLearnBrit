@@ -1,7 +1,7 @@
 # 
-![Untitled video - Made wnuith Clipchamp](https://github.com/user-attachments/assets/f6bb42a3-d884-4423-8a3c-37cad2fe1d0e)
 
 
+![20250526_221442](https://github.com/user-attachments/assets/eb198eb7-b577-46fd-aa14-0c3496f64a2a)
 
 
 👋🏽 Welcome to my GitHub profile!
@@ -22,8 +22,7 @@ PGP keys, encryption & decryption 🖥️
 
 ---
 ## 📫 Let's Connect
-- ✉️ Email me: [CUK7@proton.me](mailto:CUK7@proton.me)/dukkk@duck.com
-
+- ✉️ Email me: [CUK7@proton.me](mailto:CUK7@proton.me)
 - 🌐 More about me: - https://www.linkedin.com/in/c-chapman-2b6425265
 
   <a
