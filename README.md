@@ -4,8 +4,6 @@
 
 
 
-
-
 👋🏽 Welcome to my GitHub profile!
 
 Hola a todos!!
@@ -56,8 +54,9 @@ Here are some of the tools and technologies I’m currently working with or lear
 
 
 ## 🚀 Goals 
-![©️CC425 (1)](https://github.com/user-attachments/assets/11081fed-7147-4464-adc0-6fc5047b748a)
 
+
+![Untitled video - M7ade with Clipchamp](https://github.com/user-attachments/assets/5e31c9ed-bbbf-4679-b2cd-ecfd7084d1cf)
 
 - **Short-term**: Get better at coding and build small projects.
 - **Long-term**: Contribute to open-source projects and explore the limitless possibilities of tech.
