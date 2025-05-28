@@ -1,7 +1,8 @@
 # 
+![ezgif com-resize](https://github.com/user-attachments/assets/fed034f2-f691-4027-b35d-83abd01a273c)
 
 
-![20250526_221442](https://github.com/user-attachments/assets/eb198eb7-b577-46fd-aa14-0c3496f64a2a)
+
 
 
 👋🏽 Welcome to my GitHub profile!
