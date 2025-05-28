@@ -54,8 +54,9 @@ Here are some of the tools and technologies I’m currently working with or lear
 
 ## 🚀 Goals 
 
+![Untitleddesign_2025057727_165804_0000-ezgif com-effects (2)](https://github.com/user-attachments/assets/227bb072-6afa-4ac1-838f-09c2c8440938)
 
-![Untitled video - M7ade with Clipchamp](https://github.com/user-attachments/assets/5e31c9ed-bbbf-4679-b2cd-ecfd7084d1cf)
+
 
 - **Short-term**: Get better at coding and build small projects.
 - **Long-term**: Contribute to open-source projects and explore the limitless possibilities of tech.
