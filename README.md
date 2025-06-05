@@ -1,4 +1,7 @@
-# 
+#
+ 
+
+
 
 
 
@@ -9,8 +12,8 @@
 
 👋🏽 Welcome to my GitHub profile!
 
-Hola a todos!!
 
+![gifgit (1)](https://github.com/user-attachments/assets/235c498f-2cb2-48e8-9a1c-178a57e7306b)
 I'm *@EagerToLearnBrit*, and I'm passionate about exploring the world of tech, coding, and all things creative. 🚀
 
 
