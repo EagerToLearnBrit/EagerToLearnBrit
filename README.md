@@ -2,9 +2,10 @@
  
 
 
+![20250611_022735](https://github.com/user-attachments/assets/a64b3acc-734d-4aef-a002-33399b177c93)
 
 
-![20250611_021906](https://github.com/user-attachments/assets/4193049d-28cc-429e-a939-6e1bcaf2a304)
+
 
 
 
@@ -17,7 +18,7 @@
 
 
 ![gifgit (1)](https://github.com/user-attachments/assets/235c498f-2cb2-48e8-9a1c-178a57e7306b)
-I'm *@EagerToLearnBrit*, and I'm passionate about exploring the world of tech, coding, and all things creative. 🚀
+I'm *@EagerToLearnBrit*, Passionate about exploring the world of tech, coding, and all things creative. 🚀
 
 
 ## 🌟 About Me
