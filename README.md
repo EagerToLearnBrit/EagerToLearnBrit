@@ -1,7 +1,9 @@
 #
- 
 
-![20250611_233315-ezgif com-resize](https://github.com/user-attachments/assets/840afe1c-c09b-4ae5-b92f-bc6dbe17edaa)
+![20250612_011034-ezgif com-resize](https://github.com/user-attachments/assets/08a59d01-9d79-40f9-8854-8b2f2cf14e09)
+
+
+
 
 
 
@@ -23,7 +25,7 @@
 
 
 ![gifgit (1)](https://github.com/user-attachments/assets/235c498f-2cb2-48e8-9a1c-178a57e7306b)
-I'm *@EagerToLearnBrit*, Passionate about exploring the world of tech, coding, and all things creative. 🚀
+I'm here due to having found myself becoming quite passionate about exploring the world of tech, coding, and all things creative. 🚀
 
 
 ## 🌟 About Me
@@ -31,11 +33,15 @@ I'm *@EagerToLearnBrit*, Passionate about exploring the world of tech, coding, a
 PGP keys, encryption & decryption 🖥️
 
 
-- 🛠️ **Interests**: Powershell, frequencies, and the amazing things one can do with a Flipper Zero (within the law, of course 😉).
+- 🛠️ **Interests**: Powershell, frequencies, and the amazing things one can do with a 'Flipper Zero' (within the law, of course 😉).
 
 - 🧑‍💻 **Fun Fact**: Australia is wider than the moon 🌙, and Earth spins at **1000 mph**, yet we don’t feel a thing! 🌏
 
----
+
+
+
+
+
 ## 📫 Let's Connect
 - ✉️ Email me: [CUK7@proton.me](mailto:CUK7@proton.me)
 - 🌐 More about me: - https://www.linkedin.com/in/c-chapman-2b6425265
