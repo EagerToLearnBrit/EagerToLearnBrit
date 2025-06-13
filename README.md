@@ -1,5 +1,6 @@
 #
 
+
 ![20250612_011034-ezgif com-resize](https://github.com/user-attachments/assets/08a59d01-9d79-40f9-8854-8b2f2cf14e09)
 
 
@@ -73,8 +74,7 @@ Here are some of the tools and technologies I’m currently working with or lear
 
 
 ## 🚀 Goals 
-
-![Untitleddesign_2025057727_165804_0000-ezgif com-effects (2)](https://github.com/user-attachments/assets/227bb072-6afa-4ac1-838f-09c2c8440938)
+![tmon7hlcstrmekkgtm4g](https://github.com/user-attachments/assets/6d66983d-9660-415c-be9e-db4ce475cdaf)
 
 
 
