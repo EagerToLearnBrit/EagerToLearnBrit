@@ -26,7 +26,7 @@
 
 
 ![gifgit (1)](https://github.com/user-attachments/assets/235c498f-2cb2-48e8-9a1c-178a57e7306b)
-I'm here due to having found myself becoming quite passionate about exploring the world of tech, coding, and all things creative. 🚀
+I'm here after finding myself becoming quite passionate about exploring the world of tech, coding, and all things creative. 🚀
 
 
 ## 🌟 About Me
