@@ -53,7 +53,7 @@ I'm here after finding myself becoming quite passionate about exploring the worl
 PGP keys, encryption & decryption 🖥️
 
 
-- 🛠️ **Interests**: Powershell, frequencies, and the amazing things one can do with a 'Flipper Zero' (within the law, of course 😉 I do actually warn and inform the good folk about the vulnerabilities and dangers of the carelessness of personal security regarding modern and popular technology).
+- 🛠️ **Interests**: Powershell, frequencies, and the amazing things one can do with a 'Flipper Zero' (within the law, of course 😉 I do actually warn, inform andf advise the good folk about the vulnerabilities and dangers of the carelessness of personal security regarding modern and popular technology, i.e strengthening passwords etc).
 
 - 🧑‍💻 **Fun Fact**: Australia is wider than the moon 🌙, and Earth spins at **1000 mph**, yet we don’t feel a thing! 🌏
 
