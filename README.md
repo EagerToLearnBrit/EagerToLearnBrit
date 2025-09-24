@@ -64,7 +64,7 @@ PGP keys, encryption & decryption 🖥️
 
 
 ## 📫 Let's Connect
-- ✉️ Email me: [CUK7@proton.me](mailto:CUK7@proton.me)
+- ✉️ Email me: dukkk@duck.com
 - 🌐 More about me: - https://www.linkedin.com/in/c-chapman-2b6425265
 
   <a
