@@ -65,7 +65,7 @@ PGP keys, encryption & decryption 🖥️
 
 ## 📫 Let's Connect
 - ✉️ Email me: dukkk@duck.com
-- 🌐 More about me: - https://www.linkedin.com/in/c-chapman-2b6425265
+- 🌐 More about me: - tinyurl.com/cclinkedinpage
 
   <a
     id="cy-effective-orcid-url"
